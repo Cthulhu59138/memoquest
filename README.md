@@ -64,4 +64,3 @@ pour qualifier l’installation PWA propre à chaque navigateur.
 
 Voir [les décisions de publication](docs/DECISIONS.md) et
 [les notices tierces](THIRD_PARTY_NOTICES.md).
-
